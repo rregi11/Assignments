@@ -45,9 +45,9 @@ jobs:
           # Required mail subject:
           subject: Github Actions job result
           # Required recipients' addresses:
-          to: rregi1@babson.edu
+          to: rire729@gmail.com
           # Required sender full name (address can be skipped):
-          from: rregi1@babson.edu
+          from: rire729@gmail.com
           # Optional plain body:
           body: Build job of ${{github.repository}} completed successfully!
           # Optional unsigned/invalid certificates allowance:
