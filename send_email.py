@@ -9,7 +9,7 @@ PASSWORD = os.environ.get('MAIL_PASSWORD')
 message = """\
 Subject: GitHub Email Report
 
-This is your daily email report.
+This is your daily email report. There are changes in the repo.
 """
 
 context = ssl.create_default_context()
